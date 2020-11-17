@@ -6,7 +6,7 @@
             <h3 class="google-font">Participation Terms & Privacy Policy</h3>
             <ul class="mt-3">
                 <li>
-                    <p class="google-font">I agree to let DSC Jogja Festival Organisers use the information collected in this form to be used for my participation in "DSC Jogja Festival 2020 Event". This information and any information that the organisers collects from me during my participation in this program will be maintained in accordance with Conference Privacy Policy </p>
+                    <p class="google-font">I agree to let Jogja Festival Organisers use the information collected in this form to be used for my participation in "Jogja Festival 2020 Event". This information and any information that the organisers collects from me during my participation in this program will be maintained in accordance with Conference Privacy Policy </p>
                 </li>
                 <li>
                     <p class="google-font">I acknowledge that my contact information can be used to send communications  about program updates and related details</p>

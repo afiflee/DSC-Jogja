@@ -28,7 +28,7 @@ let Template = {
                     <br/><br/>
 
                     <p>Follow us on <a style="color:#0005DF;text-decoration:none" href="https://twitter.com/DevFestIndia">Twitter</a> and keep an eye on <a style="color:#0005DF;text-decoration:none" href="https://twitter.com/hashtag/DevFestIndia">#DevFestIndia</a> for the latest updates and news about the event.</p>
-                    <p>Regards,<br/>Team DSC Jogja Festival</p>
+                    <p>Regards,<br/>Team Jogja Festival</p>
                 </font>
             </div>
         </td>
@@ -37,7 +37,7 @@ let Template = {
         <td>
             <div style="text-align:center">
                 <font face="Google Sans">
-                    <h3 style="color:#0005DF;margin-bottom:0">DSC Jogja Festival</h3>
+                    <h3 style="color:#0005DF;margin-bottom:0">Jogja Festival</h3>
                     <a style="color:#0005DF;text-decoration:none" href="https://twitter.com/DevfestIndia">Twitter</a> 
                     | <a style="color:#0005DF;text-decoration:none" href="https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ">Youtube</a> 
                     | <a style="color:#0005DF;text-decoration:none" href="https://devfestindia.com">Website</a>
