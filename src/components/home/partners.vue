@@ -56,7 +56,9 @@
     no-gutters
     >
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
-            <img src="@/assets/img/partners/gdg-jogjakarta.svg">
+            <a href="https://gdg.community.dev/gdg-jogjakarta/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/gdg-jogjakarta.svg">
+            </a>
         </v-col>
         <v-col cols="12" md="3" sm="3">
             <v-card
