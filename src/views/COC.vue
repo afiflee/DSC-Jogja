@@ -15,7 +15,7 @@
                 </v-row>
                 <v-row>
                     <v-col>
-                        <p class="google-font" style="font-size:120%">If you witness any attendee breaching the code of conduct, please reach out to us at <b>devfestindia@gmail.com</b>.</p>
+                        <p class="google-font" style="font-size:120%">If you witness any attendee breaching the code of conduct, please reach out to us at <b>jogjakarta.dsc@gmail.com</b>.</p>
                     </v-col>
                 </v-row>
             </v-container>

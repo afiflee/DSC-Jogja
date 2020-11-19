@@ -134,5 +134,22 @@
         "sessionId": [
             204
         ]
+    },
+    {
+        "id": "111",
+        "name":"Speaker Name",
+        "company": {
+            "designation": "Sr. Software Engineer",
+            "name":"Company Name"
+        },
+        "image": "",
+        "bio": "Speaker's Bio",
+        "social": {
+            "linkedin": "https://linkedin.com/in",
+            "twitter": "https://twitter.com/"
+        },
+        "sessionId": [
+            102
+        ]
     }
 ]

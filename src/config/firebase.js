@@ -4,14 +4,15 @@ import 'firebase/auth';
 import 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAeyI-97QSQSdO7eeDaJOuQh5GEou7I_Ds",
-  authDomain: "dsc-jogja-festival-eb14c.firebaseapp.com",
-  databaseURL: "https://dsc-jogja-festival-eb14c.firebaseio.com",
-  projectId: "dsc-jogja-festival-eb14c",
-  storageBucket: "dsc-jogja-festival-eb14c.appspot.com",
-  messagingSenderId: "845744627571",
-  appId: "1:845744627571:web:4571d2f19070b0050cef06"
-};
+  apiKey: "AIzaSyBUs2q0xRxHY4jcIXmIXnXSTtrz_fpGVOU",
+  authDomain: "dscjogfest.firebaseapp.com",
+  databaseURL: "https://dscjogfest.firebaseio.com",
+  projectId: "dscjogfest",
+  storageBucket: "dscjogfest.appspot.com",
+  messagingSenderId: "701163775030",
+  appId: "1:701163775030:web:31de43af07fb98a4d86497",
+  measurementId: "G-ZCNCJMNBKM"
+}
 
 firebase.initializeApp(firebaseConfig);
 firebase.firestore().enablePersistence({synchronizeTabs:!0}).catch(()=>{console.warn("DB offline support not available")})

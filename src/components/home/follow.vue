@@ -13,7 +13,7 @@
                 x-large
                 v-on="on"
                 rel="noreferrer"
-                href="https://twitter.com/DevfestIndia"
+                href="https://twitter.com/DSCJogjakarta"
                 target="_blank"
                 slot="activator"
               >
@@ -31,7 +31,7 @@
                 x-large
                 v-on="on"
                 rel="noreferrer"
-                href="https://www.youtube.com/channel/UCJsZoFDt7rfxPBI1esak8JQ/"
+                href="https://www.youtube.com/channel/UChdD5A6AHOKxpC00fSWeWHg"
                 target="_blank"
                 slot="activator"
               >
@@ -45,7 +45,7 @@
           Let's get connected so that we can reach out to each other via a simple notification.
           <br />Stake out
           <a
-            href="https://twitter.com/DevFestIndia"
+            href="https://twitter.com/DSCJogjakarta"
             rel="noreferrer"
             target="_blank"
             style="color:#0005DF;text-decoration:none"
