@@ -201,8 +201,8 @@
                     color="#0005DF"
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
-                    label="Mobile"
-                    value="Mobile"
+                    label="Front-End"
+                    value="Front-End"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -210,8 +210,8 @@
                     color="#0005DF"
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
-                    label="Cloud"
-                    value="Cloud"
+                    label="Back-End"
+                    value="Back-End"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -219,8 +219,8 @@
                     color="#0005DF"
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
-                    label="Web"
-                    value="Web"
+                    label="DevOps"
+                    value="DevOps"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -228,8 +228,8 @@
                     color="#0005DF"
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
-                    label="Machine Learning"
-                    value="Machine Learning"
+                    label="Firebase"
+                    value="Firebase"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -237,8 +237,26 @@
                     color="#0005DF"
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
-                    label="Design [UI/UX]"
-                    value="Design [UI/UX]"
+                    label="Android"
+                    value="Android"
+                  ></v-checkbox>
+                  <v-checkbox
+                    class="my-0"
+                    v-model="response.theme"
+                    color="#0005DF"
+                    hide-details="false"
+                    :rules="[rules.checkboxbtn]"
+                    label="Flutter"
+                    value="Flutter"
+                  ></v-checkbox>
+                  <v-checkbox
+                    class="my-0"
+                    v-model="response.theme"
+                    color="#0005DF"
+                    hide-details="false"
+                    :rules="[rules.checkboxbtn]"
+                    label="UI/UX"
+                    value="UI/UX"
                   ></v-checkbox>
                   <!-- Area of Interest -->
 
@@ -259,16 +277,16 @@
                     </div>
 
                     <v-radio color="#0005DF" value="0 - 5 years" v-slot:label>
-                      <div>0 - 5 years</div>
+                      <div>0 - 2 years</div>
                     </v-radio>
                     <v-radio color="#0005DF" value="6 - 10 years" v-slot:label>
-                      <div>6 - 10 years</div>
+                      <div>3 - 6 years</div>
                     </v-radio>
                     <v-radio color="#0005DF" value="11 - 20 years" v-slot:label>
-                      <div>11 - 20 years</div>
+                      <div>6 - 9 years</div>
                     </v-radio>
                     <v-radio color="#0005DF" value="21+ years" v-slot:label>
-                      <div>21+ years</div>
+                      <div>10+ years</div>
                     </v-radio>
                   </v-radio-group>
                   <!-- Experience -->
@@ -316,54 +334,8 @@
                     hide-details="false"
                     color="#0005DF"
                     v-model="response.knowAbout"
-                    label="Women Techmakers"
-                    value="Women Techmakers"
-                  ></v-checkbox>
-                  <v-checkbox
-                    class="my-1"
-                    hide-details="false"
-                    :rules="[rules.socialcheckboxbtn]"
-                    color="#0005DF"
-                    v-model="response.knowAbout"
-                    label="Google Developer Groups"
-                    value="Google Developer Groups"
-                  ></v-checkbox>
-                  <v-checkbox
-                    class="my-1"
-                    hide-details="false"
-                    :rules="[rules.socialcheckboxbtn]"
-                    color="#0005DF"
-                    v-model="response.knowAbout"
-                    label="Developer Student Clubs"
-                    value="Developer Student Clubs"
-                  ></v-checkbox>
-                  <v-checkbox
-                    class="my-1"
-                    hide-details="false"
-                    :rules="[rules.socialcheckboxbtn]"
-                    color="#0005DF"
-                    v-model="response.knowAbout"
-                    label="Other Communities"
-                    value="Other Communities"
-                  ></v-checkbox>
-
-                  <v-checkbox
-                    class="my-1"
-                    hide-details="false"
-                    :rules="[rules.socialcheckboxbtn]"
-                    color="#0005DF"
-                    v-model="response.knowAbout"
-                    label="Through your company/colleague"
-                    value="Through your company/colleague"
-                  ></v-checkbox>
-                  <v-checkbox
-                    class="my-1"
-                    hide-details="false"
-                    :rules="[rules.socialcheckboxbtn]"
-                    color="#0005DF"
-                    v-model="response.knowAbout"
-                    label="Friends"
-                    value="Friends"
+                    label="Instagram"
+                    value="Instagram"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-1"
@@ -389,8 +361,18 @@
                     :rules="[rules.socialcheckboxbtn]"
                     color="#0005DF"
                     v-model="response.knowAbout"
-                    label="LinkedIn"
-                    value="LinkedIn"
+                    label="Whatsapp"
+                    value="Whatsapp"
+                  ></v-checkbox>
+
+                  <v-checkbox
+                    class="my-1"
+                    hide-details="false"
+                    :rules="[rules.socialcheckboxbtn]"
+                    color="#0005DF"
+                    v-model="response.knowAbout"
+                    label="Telegram"
+                    value="Telegram"
                   ></v-checkbox>
 
                   <!-- KnowAbout -->
@@ -585,58 +567,18 @@ export default {
     snackBarColor: "green",
     snackBarTimeOut: 5000,
     gdgcommunities: [
-      "GDG Ahmedabad",
-      "GDG Bangalore",
-      "GDG Bhilai",
-      "GDG Bhopal",
-      "GDG Bhubaneswar",
-      "GDG Blrdroid ",
-      "GDG Chandigarh",
-      "GDG Chennai",
-      "GDG Cloud Ahmedabad",
-      "GDG Cloud Bengaluru",
-      "GDG Cloud Bhubaneswar",
-      "GDG Cloud Chennai",
-      "GDG Cloud Coimbatore",
-      "GDG Cloud Indore",
-      "GDG Cloud Mumbai",
-      "GDG Cloud New Delhi",
-      "GDG Cloud Hyderabad",
-      "GDG Cloud Pune",
-      "GDG Cochin",
-      "GDG Coimbatore ",
-      "GDG Gandhinagar",
-      "GDG Goa",
-      "GDG Gwalior",
-      "GDG Hubli",
-      "GDG Hyderabad",
-      "GDG Indore",
-      "GDG Jaipur",
-      "GDG Jalandhar",
-      "GDG Kolkata",
-      "GDG Kozhikode",
-      "GDG MAD",
-      "GDG Madurai",
-      "GDG Nagpur",
-      "GDG Nashik",
-      "GDG New Delhi",
-      "GDG Patna",
-      "GDG Rajkot",
-      "GDG Ranchi",
-      "GDG Siliguri",
-      "GDG Srinagar",
-      "GDG Thiruvananthapuram",
-      "GDG Udaipur",
-      "GDG Mysuru",
-      "GDG Vizag",
-      "GDG Kolkata",
-      "GDG Surat",
-      "GDG Pune",
-      "GDG Jodhpur",
-      "GDG Baroda",
-      "GDG Cloud Jaipur",
-      "GDG Salem",
-      "Others",
+      "DSC Universitas Sebelas Maret",
+      "DSC Universitas Negeri Yogyakarta",
+      "DSC Universitas Amikom Yogyakarta",
+      "DSC Universitas Jend. Ahmad Yani Yogyakarta",
+      "DSC Universitas Gadjah Mada",
+      "Andronity Solo",
+      "UXiD Jogja",
+      "Cloud Native Jogja",
+      "Digital Inovasi Bangsa",
+      "Infinite Univeritas Negeri Yogyakarta",
+      "Amikom Computer Club",
+      "Others"
     ],
     rules: {
       required: (value) => !!value || "This field is required.",
@@ -651,58 +593,18 @@ export default {
       },
       community: (value) => {
         let communities = [
-          "GDG Ahmedabad",
-          "GDG Bangalore",
-          "GDG Bhilai",
-          "GDG Bhopal",
-          "GDG Bhubaneswar",
-          "GDG Blrdroid ",
-          "GDG Chandigarh",
-          "GDG Chennai",
-          "GDG Cloud Ahmedabad",
-          "GDG Cloud Bengaluru",
-          "GDG Cloud Bhubaneswar",
-          "GDG Cloud Chennai",
-          "GDG Cloud Coimbatore",
-          "GDG Cloud Indore",
-          "GDG Cloud Mumbai",
-          "GDG Cloud New Delhi",
-          "GDG Cloud Hyderabad",
-          "GDG Cloud Pune",
-          "GDG Cochin",
-          "GDG Coimbatore ",
-          "GDG Gandhinagar",
-          "GDG Goa",
-          "GDG Gwalior",
-          "GDG Hubli",
-          "GDG Hyderabad",
-          "GDG Indore",
-          "GDG Jaipur",
-          "GDG Jalandhar",
-          "GDG Kolkata",
-          "GDG Kozhikode",
-          "GDG MAD",
-          "GDG Madurai",
-          "GDG Nagpur",
-          "GDG Nashik",
-          "GDG New Delhi",
-          "GDG Patna",
-          "GDG Rajkot",
-          "GDG Ranchi",
-          "GDG Siliguri",
-          "GDG Srinagar",
-          "GDG Thiruvananthapuram",
-          "GDG Udaipur",
-          "GDG Mysuru",
-          "GDG Vizag",
-          "GDG Kolkata",
-          "GDG Surat",
-          "GDG Pune",
-          "GDG Jodhpur",
-          "GDG Baroda",
-          "GDG Cloud Jaipur",
-          "GDG Salem",
-          "Others",
+          "DSC Universitas Sebelas Maret",
+          "DSC Universitas Negeri Yogyakarta",
+          "DSC Universitas Amikom Yogyakarta",
+          "DSC Universitas Jend. Ahmad Yani Yogyakarta",
+          "DSC Universitas Gadjah Mada",
+          "Andronity Solo",
+          "UXiD Jogja",
+          "Cloud Native Jogja",
+          "Digital Inovasi Bangsa",
+          "Infinite Univeritas Negeri Yogyakarta",
+          "Amikom Computer Club",
+          "Others"
         ];
         return (
           communities.indexOf(value) >= 0 ||
