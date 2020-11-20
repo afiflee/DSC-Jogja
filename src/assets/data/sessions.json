@@ -2,85 +2,57 @@
     {
         "id": "101",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
         "track": "Day 1 Track",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
         "format": "Keynote",
-        "date": "July 09th, 2020",
-        "timeDuration": "20",
+        "date": "November 14th, 2020",
+        "timeDuration": "10",
         "speakers": [
-            119
+            
         ]
     },
     {
         "id": "102",
         "slide":"",
-        "title":"Session Title",
+        "title":"Introduce to DSC Jogja Festival",
         "description":"",
         "track": "Day 1 Track",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
         "format": "Talk",
-        "date": "July 09th, 2020",
-        "timeDuration": "30",
+        "date": "November 14th, 2020",
+        "timeDuration": "10",
         "speakers": [
-            109
+            
         ]
     },
     {
         "id": "103",
         "slide":"",
-        "title":"Session Title",
+        "title":"How to Build Personal Brand",
         "description":"",
         "track": "Day 1 Track",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
         "format": "Talk",
-        "date": "July 09th, 2020",
-        "timeDuration": "30",
+        "date": "November 14th, 2020",
+        "timeDuration": "25",
         "speakers": [
-            107
+            101, 102
         ]
     },
     {
         "id": "104",
         "slide":"",
-        "title":"Session Title",
+        "title":"QnA and Closing",
         "description":"",
         "track": "Day 1 Track",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
         "format": "Talk",
-        "date": "July 09th, 2020",
-        "timeDuration": "30",
+        "date": "November 14th, 2020",
+        "timeDuration": "15",
         "speakers": [
-            111
-        ]
-    },
-    {
-        "id": "105",
-        "slide":"",
-        "title":"Session Title",
-        "description":"",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "track": "Day 1 Track",
-        "format": "Talk",
-        "date": "July 09th, 2020",
-        "timeDuration": "30",
-        "speakers": [
-            112
-        ]
-    },
-    {
-        "id": "106",
-        "slide":"",
-        "title":"Session Title",
-        "description":"",
-        "track": "Day 1 Track",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "format": "AMA & Closing",
-        "date": "July 09th, 2020",
-        "timeDuration": "30",
-        "speakers": [
-            109, 107, 111, 112
+            
         ]
     },
     {
