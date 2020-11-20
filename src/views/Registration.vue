@@ -22,7 +22,7 @@
             </p>
             <p class="google-font">
               The mega event is set to happen on
-              <b>Oct 16th, 17th & 18th</b> with the
+              <b>November - December</b> with the
               line-up of expert speakers, multiple tracks, fun engagements and many more.
             </p>
           </div>
@@ -426,12 +426,12 @@
                 <h3 class="google-font">
                   Thank you for registering for
                   <a
-                    href="https://twitter.com/DevFestIndia"
+                    href="https://twitter.com/DSCJogjakarta"
                     rel="noreferrer"
                     target="_blank"
                     style="text-decoration:none;color:#0005DF"
                   >
-                    <b>#DevFestIndia</b>
+                    <b>#DSCJogjaFestival</b>
                   </a>.
                 </h3>
                 <p class="google-font">
