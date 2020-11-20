@@ -1,19 +1,19 @@
 [
   {
-    "name": "Afif",
+    "name": "Afif Amruzain",
     "community": {
-      "name": "Community Name",
-      "designation": "Community Designation"
+      "name": "Universitas Sebelas Maret",
+      "designation": "Informatika"
     },
     "company": {
-      "name": "Company Name",
-      "designation": "Company Designation"
+      "name": "Universitas Sebelas Maret",
+      "designation": "Informatika"
     },
     "image": "profile.jpg",
     "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
     "social": {
-      "twitter": "https://twitter.com/",
-      "linkedin": "https://www.linkedin.com/in/"
+      "twitter": "https://twitter.com/afiflee_",
+      "linkedin": "https://www.linkedin.com/in/afiflee"
     }
   },
   {

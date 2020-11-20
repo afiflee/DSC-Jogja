@@ -14,7 +14,7 @@ const sendSendGridMail = async (snap) => {
         const fname = name.split(' ')[0]
         let info = await sgMail.send({
             // NAME <EMAILID>
-            from:"Jogja Festival Team <no-reply@devfestindia.com>",
+            from:"Jogja Festival Team <no-reply@dscjogfest.c.id>",
             dynamicTemplateData:{name:fname},
             to: email,
             templateId:"EMAILTEMPLATEID",

@@ -8,7 +8,7 @@
             <p class="google-font mb-2">
             Thanks to our Sponsors 
             <a
-                href="https://twitter.com/DevFestIndia"
+                href="https://twitter.com/DSCJogjakarta"
                 rel="noreferrer"
                 target="_blank"
                 style="color:#0005DF;text-decoration:none"
@@ -34,7 +34,9 @@
             outlined
             tile
             >
-            .col-md-6 .offset-md-3
+            <a href="https://www.mamikos.com/" target="_blank" rel="noopener noreferrer">
+                Mamikos
+              </a>
             </v-card>
         </v-col>
     </v-row>
@@ -66,7 +68,9 @@
             outlined
             tile
             >
-            Community Partner 2
+            <a href="https://ia.ugm.ac.id/id/halaman-muka/" target="_blank" rel="noopener noreferrer">
+                Innovative Academy
+            </a>
             </v-card>
         </v-col>
         <v-col cols="12" md="3" sm="3">
