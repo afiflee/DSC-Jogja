@@ -17,13 +17,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Adhellia Laras Tri Hastuti",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Amikom Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Amikom Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -34,13 +34,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Yusriyah Isnaini Mufidah",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -51,13 +51,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Muhammad ilham zulqarnain",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -68,13 +68,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Taufaldisatya WIjatama Diwangkara",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -85,13 +85,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Siti Fatimah",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Jenderal Achmad Yani Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -102,13 +102,13 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "M. R. Abdhi P.",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Amikom Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Amikom Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
@@ -119,13 +119,251 @@
     }
   },
   {
-    "name": "Person Name",
+    "name": "Timur Haryo Mahissanular",
     "community": {
-      "name": "Community Name",
+      "name": "Universitas Amikom Yogyakarta",
       "designation": "Community Designation"
     },
     "company": {
-      "name": "Company Name",
+      "name": "Universitas Amikom Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Dwi Setiawan",
+    "community": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Abdul Mujiburrohman Luthfi",
+    "community": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Alifah Mauliddin Nur Ikhsan",
+    "community": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Negeri Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Oktario Ronny Pramuji",
+    "community": {
+      "name": "Universitas Amikom Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Amikom Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Novi Ariyanto",
+    "community": {
+      "name": "Universitas Amikom Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Amikom Yogyakarta",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Muhammad Mufti Mubarok",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Edhita Berlianditta Putri Yudyastawa",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Safira Alya Nabila",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Anak Agung Gede Agung D",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Devito Karunia Susilo",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Bonifacius Charis R",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Muhammad Rauf",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Abiseno Arya Pramodana",
+    "community": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Gajah Mada",
+      "designation": "Company Designation"
+    },
+    "image": "profile.jpg",
+    "bio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil olores dolorum deleniti quos magnam? Molestiae quidem temporareprehenderit laudantium? Deleniti consequatur aperiam evenietvoluptates reiciendis. Debitis blanditiis cumque deleniti quas!",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  },
+  {
+    "name": "Amelia Dwi Utami Warsa Ningrum",
+    "community": {
+      "name": "Universitas Muhammadiyah Yogyakarta",
+      "designation": "Community Designation"
+    },
+    "company": {
+      "name": "Universitas Muhammadiyah Yogyakarta",
       "designation": "Company Designation"
     },
     "image": "profile.jpg",
