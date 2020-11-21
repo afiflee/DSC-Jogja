@@ -393,7 +393,7 @@
                   ></v-checkbox>
                   <p
                     class="mt-3"
-                  >I agree to let DSC Jogjakarta Organisers use the information collected in this form to be used for my participation in "Jogja Festival Event".</p>
+                  >I agree to let DSC Jogjakarta Organizers use the information collected in this form to be used for my participation in "Jogja Festival Event".</p>
                   <p>
                     I have read and agree to the
                     <router-link to="/tc" target="_blank">Participation Terms</router-link>, <router-link to="/coc" target="_blank">Code of conducts</router-link> & <a href="https://developers.google.com/community-guidelines" rel=“noreferrer” target="_blank">Community Guidelines</a>
@@ -434,7 +434,7 @@
                 </h3>
                 <p class="google-font">
                   Thank you for registering for
-                  <b>#DSCJogFest2020</b> and giving
+                  <b>#JogFest2020</b> and giving
                   us the honour to host you at Jogjakarta's biggest developer student
                   conclave.
                   <br />You will be receiving the confirmation mail soon from:
@@ -497,7 +497,7 @@
                 <h3 class="google-font">You have already submitted this form</h3>
                 <p class="mb-5">
                   Thank you for registering for
-                  <b>#DSCJogFest2020</b> and giving us the
+                  <b>#JogFest2020</b> and giving us the
                   honour to host you at Jogjakarta's biggest developer student conclave.
                   <br />You might have received or will be receiving the confirmation mail soon from:
                   <br />
@@ -565,6 +565,7 @@ export default {
     snackBarColor: "green",
     snackBarTimeOut: 5000,
     gdgcommunities: [
+      "GDG Jogjakarta",
       "DSC Universitas Sebelas Maret",
       "DSC Universitas Negeri Yogyakarta",
       "DSC Universitas Amikom Yogyakarta",
@@ -576,6 +577,8 @@ export default {
       "Digital Inovasi Bangsa",
       "Infinite Univeritas Negeri Yogyakarta",
       "Amikom Computer Club",
+      "HIMASI UAD",
+      "HMSI Unjani Yogyakarta",
       "Others"
     ],
     rules: {
