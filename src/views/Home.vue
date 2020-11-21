@@ -7,23 +7,26 @@
         </v-col>
       </v-row>
 
-      <!-- <v-row align="center" justify="center" class="">
-        <v-col md="10" lg="9" sm="12" class="my-4">
-          <Stats/>
+      <!--Organized By-->
+      <v-row align="center" justify="center" class="">
+        <v-col md="10" lg="10" sm="10" class="text-center">
+          <br>
+          <Organized class="mt-2 mb-0" />
         </v-col>
-      </v-row> -->
-      <!-- Follow Us -->
+      </v-row>
+      <!-- Our Partner -->
       <v-row align="center" justify="center" class="">
         <v-col md="10" lg="10" sm="10" class="text-center">
           <v-divider></v-divider>
           <br>
-          <FollowUs class="mt-10 mb-4" />
+          <Partners class="mt-2 mb-0" />
         </v-col>
       </v-row>
+      <!-- Follow Us -->
       <v-row align="center" justify="center" class="">
         <v-col md="10" lg="10" sm="10" class="text-center">
           <v-divider></v-divider>
-          <Partners class="mt-2 mb-0" />
+          <FollowUs class="mt-10 mb-4" />
         </v-col>
       </v-row>
     </v-container>
@@ -37,6 +40,7 @@ export default {
     FollowUs: () => import("@/components/home/follow"),
     HomeScreen: ()=> import('@/components/home/homescreen'),
     Partners: ()=> import('@/components/home/partners'),
+    Organized: ()=> import('@/components/home/organized'),
     // Stats: ()=> import('@/components/home/Stats')
   },
 };
