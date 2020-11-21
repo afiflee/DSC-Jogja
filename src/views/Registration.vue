@@ -434,13 +434,13 @@
                 </h3>
                 <p class="google-font">
                   Thank you for registering for
-                  <b>#DevFestIndia</b> and giving
-                  us the honour to host you at India's biggest developer
+                  <b>#DSCJogFest2020</b> and giving
+                  us the honour to host you at Jogjakarta's biggest developer student
                   conclave.
                   <br />You will be receiving the confirmation mail soon from:
                   <span
                     style="color:red"
-                  >no-reply@devfestindia.com</span>
+                  >jogjakarta.dsc@gmail.com</span>
                 </p>
                 <v-btn
                   v-if="maindata.registrationData.twittershare"
@@ -497,11 +497,11 @@
                 <h3 class="google-font">You have already submitted this form</h3>
                 <p class="mb-5">
                   Thank you for registering for
-                  <b>#DevFestIndia</b> and giving us the
-                  honour to host you at India's biggest developer conclave.
+                  <b>#DSCJogFest2020</b> and giving us the
+                  honour to host you at Jogjakarta's biggest developer student conclave.
                   <br />You might have received or will be receiving the confirmation mail soon from:
                   <br />
-                  <span style="color:red">no-reply@devfestindia.com</span>
+                  <span style="color:red">jogjakarta.dsc@gmail.com</span>
                 </p>
                 <v-btn
                   v-if="maindata.registrationData.twittershare"
