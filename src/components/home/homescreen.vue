@@ -65,7 +65,7 @@
       </v-col>  
       <v-col md="6" cols="12" class="text-center">
         <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/H1F97SVL4sw?autoplay=1"
+  src="https://www.youtube.com/embed/H1F97SVL4sw"
   frameborder="0"></iframe>
       </v-col>
     </v-row>
@@ -97,7 +97,7 @@
         <!-- <Timer deadline="November 14, 2020" /> -->
         <v-col md="6" cols="12" class="mt-4 mb-3">
                 <iframe id="ytplayer" type="text/html" 
-          src="https://www.youtube.com/embed/H1F97SVL4sw?autoplay=1"
+          src="https://www.youtube.com/embed/H1F97SVL4sw"
           frameborder="0"></iframe>
         </v-col>
         <p class="google-font mt-4 mb-5">
