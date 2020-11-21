@@ -24,13 +24,13 @@
         >
         </v-col>
     </v-row>
-    <v-row no-gutters>
+    <v-row no-gutters >
         <v-col
-            md="2"
-            offset-md="2"
+            md="4"
+            offset-md="4"
         >
             <a href="https://www.mamikos.com/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/mamikos.svg">
+              <img src="@/assets/img/mamikos.svg" width="375px" height="90px">
               </a>
         </v-col>
     </v-row>
@@ -59,15 +59,11 @@
                 <img src="@/assets/img/partners/ia-dark-logo.png" width="180px" height="50px">
             </a>
         </v-col>
-        <!--  -->
-        <v-col cols="12" md="3" sm="3">
-            <v-card
-            class="pa-2"
-            outlined
-            tile
-            >
-            Community Partner 3
-            </v-card>
+        <!-- WTM Jogja -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://iamremarkable.withgoogle.com/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/logo_wtm.png" width="250px" height="40px">
+            </a>
         </v-col>
     </v-row>
   </v-container>
