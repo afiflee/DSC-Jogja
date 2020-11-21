@@ -64,7 +64,9 @@
         >
       </v-col>
       <v-col md="6" cols="12" class="text-center">
-        <Timer deadline="November 14, 2020" />
+        <iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/H1F97SVL4sw?autoplay=1"
+  frameborder="0"></iframe>
       </v-col>
     </v-row>
     <!-- Desktop Screen -->
