@@ -1,15 +1,23 @@
 [
     {
-        "question": "What is DevFest?",
-        "answer": "DevFests are community led developer events hosted by Google Developers Groups around the globe."
+        "question": "What is DSC Jogja Festival?",
+        "answer": "DSC Jogja Festival is community led developer events hosted by active Developer Student Clubs around the Yogyakarta."
     },
     {
-        "question": "What are GDGs?",
-        "answer": "GDGs are focused on community building and learning about Google’s technologies.  "
+        "question": "What are Developer Student Clubs?",
+        "answer": "Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
     },
     {
-        "question": "Who can register for DevFest?",
+        "question": "Who can register for DSC Jogja Fest?",
         "answer": "Beginners, experts, literally everyone. Anyone with the passion of learning, who’s fond of technology, passionate programmers , everybody can register and attend."
+    },
+    {
+        "question": "When this event will be held?",
+        "answer": "DSC Jogja Fest will be held for 3 months virtually, start from November 2020 until January 2021."
+    },
+    {
+        "question": "Do I get certificate by participating this event?",
+        "answer": "Yes, you will get an e-certificate by participating our event."
     },
     {
         "question": "Is it mandatory to register to participate in the event?",
@@ -24,11 +32,11 @@
         "answer": "We have a plethora of AMAZING perks awaiting for you!"
     },
     {
-        "question": "How can I become a member of GDG?",
-        "answer": "Head to Google developers group website (https://gdg.community.dev/) and find the nearest GDG in your location."
+        "question": "How can I become a member of DSC?",
+        "answer": "Head to Developer Student Clubs website dsc.community.dev and find the nearest DSC in your location."
     },
     {
         "question": "How can I communicate my queries?",
-        "answer": "Reach out to us at: [example@mail.com]"
+        "answer": "Reach out to us at: jogjakarta.dsc@gmail.com"
     }
 ]

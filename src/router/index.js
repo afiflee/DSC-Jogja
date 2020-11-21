@@ -41,15 +41,15 @@ Vue.use(VueRouter)
       color: 'white'
     }
   },
-  {
-    path: '/volunteers',
-    name: 'Volunteers',
-    component: () => import(/* webpackChunkName: "volunteers" */ '../views/Volunteers.vue'),
-    meta: {
-      title: 'Volunteers | JogFest 2020',
-      color: 'white'
-    }
-  },
+  // {
+  //   path: '/volunteers',
+  //   name: 'Volunteers',
+  //   component: () => import(/* webpackChunkName: "volunteers" */ '../views/Volunteers.vue'),
+  //   meta: {
+  //     title: 'Volunteers | JogFest 2020',
+  //     color: 'white'
+  //   }
+  // },
   {
     path: '/registration',
     name: 'Registration',

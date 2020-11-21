@@ -43,15 +43,15 @@ export default new Vuex.Store({
           showBottomNav: false,
         },
       },
-      {
-        text: "Volunteers",
-        to: "/volunteers",
-        icon: 'mdi-account-switch',
-        meta: {
-          showToolbar: true,
-          showBottomNav: false,
-        },
-      },
+      // {
+      //   text: "Volunteers",
+      //   to: "/volunteers",
+      //   icon: 'mdi-account-switch',
+      //   meta: {
+      //     showToolbar: true,
+      //     showBottomNav: false,
+      //   },
+      // },
       {
         text: "Register",
         to: "/registration",
