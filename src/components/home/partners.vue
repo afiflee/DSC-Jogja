@@ -145,7 +145,7 @@
         </v-col>
         <!-- Danke -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/danke_cc/" target="_blank" rel="noopener noreferrer">
                 <img src="@/assets/img/partners/Danke.jpg" width="100px" height="50px">
             </a>
         </v-col>
