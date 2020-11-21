@@ -12,7 +12,7 @@
                 rel="noreferrer"
                 target="_blank"
                 style="color:#0005DF;text-decoration:none"
-            >#JogFest2020</a>
+            >#DSCJogFest2020</a>
             </p>
         </v-col>
     </v-row>
@@ -26,18 +26,12 @@
     </v-row>
     <v-row no-gutters>
         <v-col
-            md="4"
-            offset-md="4"
+            md="2"
+            offset-md="2"
         >
-            <v-card
-            class="pa-2"
-            outlined
-            tile
-            >
             <a href="https://www.mamikos.com/" target="_blank" rel="noopener noreferrer">
-                Mamikos
+                <img src="@/assets/img/mamikos.svg">
               </a>
-            </v-card>
         </v-col>
     </v-row>
     <v-row justify="center" align="center" class="mt-12">
@@ -52,27 +46,20 @@
             </p>
         </v-col>
     </v-row>
-    <v-row
-    class="mb-6"
-    justify="center"
-    no-gutters
-    >
+    <v-row class="mb-6" justify="center" no-gutters>
+        <!-- GDG Jogjakarta -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://gdg.community.dev/gdg-jogjakarta/" target="_blank" rel="noopener noreferrer">
                 <img src="@/assets/img/partners/gdg-jogjakarta.svg">
             </a>
         </v-col>
-        <v-col cols="12" md="3" sm="3">
-            <v-card
-            class="pa-2"
-            outlined
-            tile
-            >
+        <!-- Innovative Academy -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://ia.ugm.ac.id/id/halaman-muka/" target="_blank" rel="noopener noreferrer">
-                Innovative Academy
+                <img src="@/assets/img/partners/ia-dark-logo.png" width="180px" height="50px">
             </a>
-            </v-card>
         </v-col>
+        <!--  -->
         <v-col cols="12" md="3" sm="3">
             <v-card
             class="pa-2"
