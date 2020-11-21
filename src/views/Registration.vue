@@ -16,13 +16,11 @@
               <span style="color:#0005DF">Registration</span>
             </h2>
             <p class="google-font">
-              India's biggest developer conclave with 40+ GDG
-              communities.
-              <br />Separated by distance, united by passion.
+              DSC Jogja Festival is biggest developer student event held by active DSCs in Jogjakarta.
             </p>
             <p class="google-font">
               The mega event is set to happen on
-              <b>November - December</b> with the
+              <b>November 2020 - Januari 2021</b> with the
               line-up of expert speakers, multiple tracks, fun engagements and many more.
             </p>
           </div>
@@ -39,7 +37,7 @@
                 <h3 class="google-font">Login with your Google Account</h3>
                 <p
                   class="google-font"
-                >Sign in and register to get your entry tickets of the "Festival of Developers".</p>
+                >Sign in and register to get your entry tickets of the "DSC Jogja Festival".</p>
 
                 <v-list-item v-if="userLoginIn" class="ml-0 pl-0">
                   <v-list-item-avatar size="65">
