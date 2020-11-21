@@ -62,7 +62,7 @@
           target="_blank"
           >#JogFest2020</v-btn
         >
-      </v-col>
+      </v-col>  
       <v-col md="6" cols="12" class="text-center">
         <iframe id="ytplayer" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/H1F97SVL4sw?autoplay=1"
@@ -94,8 +94,12 @@
           <br />
           <v-icon class="mb-1">mdi-access-point</v-icon>&nbsp;Online
         </p>
-        <Timer deadline="November 14, 2020" />
-
+        <!-- <Timer deadline="November 14, 2020" /> -->
+        <v-col md="6" cols="12" class="mt-4 mb-3">
+                <iframe id="ytplayer" type="text/html" 
+          src="https://www.youtube.com/embed/H1F97SVL4sw?autoplay=1"
+          frameborder="0"></iframe>
+        </v-col>
         <p class="google-font mt-4 mb-5">
           <b style="color:#0005DF;font-size:120%">Jogja Festival 2020</b> - Create your future and grow together.
           <br />Separated by distance, united by passion.
@@ -130,6 +134,7 @@
           >#JogFest2020</v-btn
         >
       </v-col>
+     
     </v-row>
   </v-container>
 </template>
@@ -142,7 +147,7 @@ export default {
     maindata:maindata
   }),
   components: {
-    Timer: () => import("@/components/home/Timer"),
+    // Timer: () => import("@/components/home/Timer"),
   },
 };
 </script>
