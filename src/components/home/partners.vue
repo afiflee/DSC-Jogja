@@ -3,10 +3,10 @@
     <v-row justify="center" align="center">
         <v-col>
             <h1 class="google-font" style="color:#0005DF;">
-            Sponsors
+            Sponsor
             </h1>
             <p class="google-font mb-2">
-            Thanks to our Sponsors 
+            Thanks to our Sponsor 
             <a
                 href="https://twitter.com/DSCJogjakarta"
                 rel="noreferrer"
@@ -34,6 +34,8 @@
               </a>
         </v-col>
     </v-row>
+    
+    <!-- Community Partner -->
     <v-row justify="center" align="center" class="mt-12">
         <v-col>
             <v-divider></v-divider>
@@ -46,6 +48,7 @@
             </p>
         </v-col>
     </v-row>
+
     <v-row class="mb-6" justify="center" no-gutters>
         <!-- GDG Jogjakarta -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
@@ -83,7 +86,7 @@
         <!-- Digital Inovasi Bangsa -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://dib.biz.id/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/partners/dib.png" width="250px" height="40px">
+                <img src="@/assets/img/partners/dib.png" width="250px" height="60px">
             </a>
         </v-col>
     </v-row>
@@ -164,6 +167,55 @@
             </a>
           </v-col>
     </v-row>
+    <!-- End of Community Partner -->
+    
+    <!-- Media Partner -->
+    <v-row justify="center" align="center" class="mt-12">
+        <v-col>
+            <v-divider></v-divider>
+            <br>
+            <h1 class="google-font" style="color:#0005DF;">
+            Media Partners
+            </h1>
+            <p class="google-font mb-2">
+            Thanks to our Media Partners 
+            </p>
+        </v-col>
+    </v-row>
+    <v-row class="mb-6" justify="center" no-gutters>
+        <!-- unyku.id -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://unyku.id/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/logo_unykuid.png" width="250px" height="70px">
+            </a>
+        </v-col>
+        <!-- teknoevent jogja -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://www.instagram.com/teknoevent_jogja/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/Logo TeknoEvent Jogja.png" width="100px" height="100px">
+            </a>
+        </v-col>
+        <!-- berita solo raya -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://www.instagram.com/update_berita_soloraya/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/Update berita.jpg" width="100px" height="100px">
+            </a>
+        </v-col>
+    </v-row>
+    <v-row class="mb-6" justify="center" no-gutters>
+        <!-- teamprojekt -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://www.instagram.com/teamprojekt_/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/logo_teamprojekt.png" width="190px" height="30px">
+            </a>
+        </v-col>
+        <!-- teknoevent campus -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://www.instagram.com/teknoeventcampus/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/partners/te_c_blue_solidwhite.png" width="100px" height="50px">
+            </a>
+        </v-col>
+      </v-row>
   </v-container>
 </template>
 
