@@ -274,16 +274,16 @@
                       >This field is required.</span>
                     </div>
 
-                    <v-radio color="#0005DF" value="0 - 5 years" v-slot:label>
+                    <v-radio color="#0005DF" value="0 - 2 years" v-slot:label>
                       <div>0 - 2 years</div>
                     </v-radio>
-                    <v-radio color="#0005DF" value="6 - 10 years" v-slot:label>
+                    <v-radio color="#0005DF" value="3 - 6 years" v-slot:label>
                       <div>3 - 6 years</div>
                     </v-radio>
-                    <v-radio color="#0005DF" value="11 - 20 years" v-slot:label>
+                    <v-radio color="#0005DF" value="6 - 9 years" v-slot:label>
                       <div>6 - 9 years</div>
                     </v-radio>
-                    <v-radio color="#0005DF" value="21+ years" v-slot:label>
+                    <v-radio color="#0005DF" value="10+ years" v-slot:label>
                       <div>10+ years</div>
                     </v-radio>
                   </v-radio-group>
@@ -592,7 +592,8 @@ export default {
         return value.length > 0 || "At least one item should be selected.";
       },
       community: (value) => {
-        let communities = [
+        let communities = [ 
+          "GDG Jogjakarta",
           "DSC Universitas Sebelas Maret",
           "DSC Universitas Negeri Yogyakarta",
           "DSC Universitas Amikom Yogyakarta",
