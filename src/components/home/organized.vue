@@ -19,30 +19,28 @@
         <!-- DSC UNS-->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://dsc.community.dev/universitas-sebelas-maret-uns-surakarta/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/partners/uns.png" width="270px">
+                <img src="@/assets/img/organizers/dsc-uns.png" width="270px">
             </a>
         </v-col>
         <!-- DSC UNY -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://dsc.community.dev/universitas-negeri-yogyakarta/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/partners/uny.png" width="270px">
-            </a>
-        </v-col>
-        <!-- DSC UNJANI -->
-        <v-col cols="12" md="3" sm="3" style="padding: 10px">
-            <a href="https://dsc.community.dev/universitas-jenderal-achmad-yani-yogyakarta/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/partners/unjani.png" width="270px">
+                <img src="@/assets/img/organizers/dsc-uny.png" width="270px">
             </a>
         </v-col>
         <!-- DSC Amikom -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://dsc.community.dev/university-of-amikom-yogyakarta/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/partners/amikom.png" width="270px">
+                <img src="@/assets/img/organizers/dsc-amikom.png" width="270px">
+            </a>
+        </v-col>
+        <!-- DSC UNJANI -->
+        <v-col cols="12" md="3" sm="3" style="padding: 10px">
+            <a href="https://dsc.community.dev/universitas-jenderal-achmad-yani-yogyakarta/" target="_blank" rel="noopener noreferrer">
+                <img src="@/assets/img/organizers/dsc-unjani.png" width="250px">
             </a>
         </v-col>
     </v-row>
-
-
   </v-container>
 </template>
 
