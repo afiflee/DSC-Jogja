@@ -12,8 +12,7 @@
             103
         ],
         "social": {
-            "twitter": "https://twitter.com/",
-            "linkedin": "https://www.linkedin.com/in"
+            "linkedin": "https://www.linkedin.com/in/tesyant"
         }
     },
     {
@@ -26,8 +25,7 @@
         "image": "",
         "bio": "Speaker's Bio",
         "social": {
-            "twitter": "https://twitter.com/",
-            "linkedin": "https://www.linkedin.com/in"
+            "twitter": "https://twitter.com/khusniforest28"
         },
         "sessionId": [
             103
@@ -41,10 +39,10 @@
             "designation":"Front-End Engineer"
         },
         "image": "Frontend.jpeg",
-        "bio": "Speaker's Bio",
+        "bio": "I am a Front-End Engineer with a demonstrated history of working in the web development industry. I like to learn new things such as learning new framework and new methods to build a better web. And I also pretty good working in a team.",
         "social": {
-            "twitter": "https://twitter.com/",
-            "linkedin": "https://www.linkedin.com/in"
+            "twitter": "https://twitter.com/ditarahma08",
+            "linkedin": "https://www.linkedin.com/in/dita-rahma-puspitasari-42897b91/"
         },
         "sessionId": [
             202
@@ -60,8 +58,8 @@
         "image": "Backend.jpeg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "https://www.linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://www.linkedin.com/in/danang-kastowo-5b448242/",
+            "twitter": "https://twitter.com/DanangKastowo"
         },
         "sessionId": [
             202
@@ -77,8 +75,7 @@
         "image": "GIT.jpg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "https://www.linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://www.linkedin.com/indvrg/"
         },
         "sessionId": [
             205
@@ -92,10 +89,10 @@
             "name":"Cloud Native Jogja"
         },
         "image": "Devops.jpeg",
-        "bio": "Speaker's Bio",
+        "bio": "A software engineer specializes in DevOps, infrastructure, and cloud-native technology.",
         "social": {
-            "linkedin": "",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/satriajidam",
+            "twitter": "https://twitter.com/satriajidam"
         },
         "sessionId": [
             302
@@ -109,10 +106,10 @@
             "name":"Mamikos"
         },
         "image": "Firebase.jpeg",
-        "bio": "Speaker's Bio",
+        "bio": "An engineer who lives in this big and fast growing front-end web development world, but exploration is my middle name",
         "social": {
-            "linkedin": "https://linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/muhedwardc/",
+            "twitter": "https://twitter.com/muhedwardc"
         },
         "sessionId": [
             305
@@ -120,7 +117,7 @@
     },
     {
         "id": "401",
-        "name":"Sulistyo Wahyu",
+        "name":"Sulistyo Wahyu S",
         "company": {
             "designation":"Mentor",
             "name":"Andronity Solo"
@@ -128,8 +125,7 @@
         "image": "Android.jpeg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/sulistyo-wahyu-s-aa7614168/"
         },
         "sessionId": [
             402
@@ -145,8 +141,7 @@
         "image": "Flutter.jpg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "https://linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/muhamad-sa-id-abdurrahman-90578714a/"
         },
         "sessionId": [
             405
@@ -162,8 +157,8 @@
         "image": "UI.jpg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "https://linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/tegarerputra/",
+            "twitter": "https://twitter.com/tegarerputra"
         },
         "sessionId": [
             502
@@ -179,8 +174,7 @@
         "image": "UX.jpg",
         "bio": "Speaker's Bio",
         "social": {
-            "linkedin": "https://linkedin.com/in",
-            "twitter": "https://twitter.com/"
+            "linkedin": "https://linkedin.com/in/ryanrestyawan/"
         },
         "sessionId": [
             502
