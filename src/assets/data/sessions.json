@@ -77,7 +77,7 @@
         "track": "Day 2",
         "format": "Talk",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "date": "July 10th, 2020",
+        "date": "November 21th, 2020",
         "timeDuration": "30",
         "speakers": [
             201, 202
@@ -86,12 +86,12 @@
     {
         "id": "203",
         "slide":"",
-        "title":"Session Title",
+        "title":"QnA - Closing",
         "description":"",
         "track": "Day 2",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
         "format": "Talk",
-        "date": "July 10th, 2020",
+        "date": "November 21th, 2020",
         "timeDuration": "15",
         "speakers": [
             
@@ -100,15 +100,15 @@
     {
         "id": "204",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
         "track": "Day 2",
-        "format": "Talk",
+        "format": "Keynote",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "date": "July 10th, 2020",
+        "date": "November 21th, 2020",
         "timeDuration": "40",
         "speakers": [
-            110
+            
         ]
     },
     {
@@ -119,10 +119,10 @@
         "track": "Day 2",
         "format": "Talk",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "date": "July 10th, 2020",
+        "date": "November 21th, 2020",
         "timeDuration": "30",
         "speakers": [
-            113
+            203
         ]
     },
     {
@@ -132,11 +132,11 @@
         "description":"",
         "track": "Day 2",
         "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "format": "AMA & Closing",
+        "format": "Closing",
         "date": "July 10th, 2020",
         "timeDuration": "30",
         "speakers": [
-            105, 103, 106, 110, 113
+            
         ]
     },
     {
