@@ -5,7 +5,7 @@
         "title":"Opening",
         "description":"",
         "track": "Day 1",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "https://www.youtube.com/embed/H1F97SVL4sw",
         "format": "Keynote",
         "date": "November 14th, 2020",
         "timeDuration": "10",
@@ -19,7 +19,7 @@
         "title":"Introduce to DSC Jogja Festival",
         "description":"",
         "track": "Day 1",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "https://www.youtube.com/embed/FQrYj0CLHcU",
         "format": "Talk",
         "date": "November 14th, 2020",
         "timeDuration": "10",
@@ -30,10 +30,10 @@
     {
         "id": "103",
         "slide":"",
-        "title":"How to Build Personal Brand",
+        "title":"How to Build Our Personal Branding",
         "description":"",
         "track": "Day 1",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "",
         "format": "Talk",
         "date": "November 14th, 2020",
         "timeDuration": "25",
@@ -47,8 +47,8 @@
         "title":"QnA and Closing",
         "description":"",
         "track": "Day 1",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "format": "Talk",
+        "link": "",
+        "format": "Question and Answer",
         "date": "November 14th, 2020",
         "timeDuration": "15",
         "speakers": [
@@ -61,7 +61,7 @@
         "title":"Opening",
         "description":"",
         "track": "Day 2",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "",
         "format": "Keynote",
         "date": "November 21th, 2020",
         "timeDuration": "10",
@@ -72,11 +72,11 @@
     {
         "id": "202",
         "slide":"",
-        "title":"Web Development",
+        "title":"Web Development - Paralel Session",
         "description":"",
         "track": "Day 2",
         "format": "Talk",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "",
         "date": "November 21th, 2020",
         "timeDuration": "30",
         "speakers": [
@@ -86,11 +86,11 @@
     {
         "id": "203",
         "slide":"",
-        "title":"QnA - Closing",
+        "title":"Closing",
         "description":"",
         "track": "Day 2",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "format": "Talk",
+        "link": "",
+        "format": "Question and Answer",
         "date": "November 21th, 2020",
         "timeDuration": "15",
         "speakers": [
@@ -104,7 +104,7 @@
         "description":"",
         "track": "Day 2",
         "format": "Keynote",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "",
         "date": "November 21th, 2020",
         "timeDuration": "40",
         "speakers": [
@@ -114,11 +114,11 @@
     {
         "id": "205",
         "slide":"",
-        "title":"Session Title",
+        "title":"Let's Connect with Git",
         "description":"",
-        "track": "Day 2",
+        "track": "Fundamental Series - Git",
         "format": "Talk",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "link": "",
         "date": "November 21th, 2020",
         "timeDuration": "30",
         "speakers": [
@@ -128,12 +128,12 @@
     {
         "id": "206",
         "slide":"",
-        "title":"Session Title",
+        "title":"Closing",
         "description":"",
-        "track": "Day 2",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "format": "Closing",
-        "date": "July 10th, 2020",
+        "track": "Fundamental Series - Git",
+        "link": "",
+        "format": "Question and Answer",
+        "date": "November 21st, 2020",
         "timeDuration": "30",
         "speakers": [
             
@@ -142,12 +142,26 @@
     {
         "id": "301",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "track": "Day 3",
+        "link": "",
+        "track": "Fundamental Series - DevOps",
+        "format": "Keynote",
+        "date": "November 22nd 2020",
+        "timeDuration": "30",
+        "speakers": [
+            104
+        ]
+    },
+    {
+        "id": "302",
+        "slide":"",
+        "title":"What is DevOps?",
+        "description":"",
+        "link": "",
+        "track": "Fundamental Series - DevOps",
         "format": "Talk",
-        "date": "July 11th, 2020",
+        "date": "November 22nd 2020",
         "timeDuration": "30",
         "speakers": [
             104
@@ -156,12 +170,12 @@
     {
         "id": "303",
         "slide":"",
-        "title":"Session Title",
+        "title":"Closing",
         "description":"",
-        "track": "Day 3",
-        "format": "Ice Breaker",
-        "date": "July 11th, 2020",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "track": "Fundamental Series - DevOps",
+        "format": "Question and Answer",
+        "date": "November 22nd 2020",
+        "link": "",
         "timeDuration": "15",
         "speakers": [
             120, 124
@@ -170,12 +184,12 @@
     {
         "id": "304",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "track": "Day 3",
-        "format": "Talk",
-        "date": "July 11th, 2020",
+        "link": "",
+        "track": "Fundamental Series - Firebase",
+        "format": "Keynote",
+        "date": "November 22 2020",
         "timeDuration": "30",
         "speakers": [
             114
@@ -184,12 +198,12 @@
     {
         "id": "305",
         "slide":"",
-        "title":"Session Title",
+        "title":"Let's get to know about Firebase",
         "description":"",
-        "track": "Day 3",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
+        "track": "Fundamental Series - Firebase",
+        "link": "",
         "format": "Talk",
-        "date": "July 11th, 2020",
+        "date": "November 22nd 2020",
         "timeDuration": "40",
         "speakers": [
             114, 115
@@ -198,113 +212,141 @@
     {
         "id": "306",
         "slide":"",
-        "title":"Session Title",
+        "title":"Closing",
         "description":"",
-        "track": "Day 3",
-        "format": "AMA & Closing",
-        "link": "https://www.youtube.com/embed/5eKnpn77a-s",
-        "date": "July 11th, 2020",
+        "track": "Fundamental Series - Firebase",
+        "format": "Question and Answer",
+        "link": "",
+        "date": "November 22nd 2020",
         "timeDuration": "30",
         "speakers": [
-            104, 102, 114, 115
+            
         ]
     },
     {
         "id": "401",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
         "link": "",
-        "track": "Day 4",
-        "format": "Talk",
-        "date": "July 12th, 2020",
+        "track": "Fundamental Series - Android",
+        "format": "Keynote",
+        "date": "November 28th 2020",
         "timeDuration": "30",
         "speakers": [
-            108
+            
         ]
     },
     {
         "id": "402",
         "slide":"",
-        "title":"Session Title",
+        "title":"Android Developer as Your Career Choice",
         "description":"",
-        "track": "Day 4",
+        "track": "Fundamental Series - Android",
         "format": "Talk",
-        "date": "July 12th, 2020",
+        "date": "November 28th 2020",
         "link": "",
         "timeDuration": "30",
         "speakers": [
-            101
+            
         ]
     },
     {
         "id": "403",
         "slide":"",
-        "title":"Session Title",
+        "title":"Closing",
         "description":"",
-        "track": "Day 4",
+        "track": "Fundamental Series - Android",
         "link": "",
-        "format": "Ice Breaker",
-        "date": "July 12th, 2020",
+        "format": "Question and Answer",
+        "date": "November 28th 2020",
         "timeDuration": "15",
         "speakers": [
-            122, 123
+            
         ]
     },
     {
         "id": "404",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
         "link": "",
-        "track": "Day 4",
-        "format": "Talk",
-        "date": "July 12th, 2020",
+        "track": "Fundamental Series - Flutter",
+        "format": "Keynote",
+        "date": "November 28th 2020",
         "timeDuration": "45",
         "speakers": [
-            126
+            
+        ]
+    },
+    {
+        "id": "405",
+        "slide":"",
+        "title":"is Flutter the Right Option for Learning Android?",
+        "description":"",
+        "link": "",
+        "track": "Fundamental Series - Flutter",
+        "format": "Talk",
+        "date": "November 28th 2020",
+        "timeDuration": "45",
+        "speakers": [
+            
         ]
     },
     {
         "id": "406",
         "slide":"",
-        "title":"Session Title",
+        "title":"Closing",
         "description":"",
-        "track": "Day 4",
-        "format": "AMA & Closing",
+        "track": "Fundamental Series - Flutter",
+        "format": "Question and Answer",
         "link": "",
-        "date": "July 12th, 2020",
+        "date": "November 28th 2020",
         "timeDuration": "30",
         "speakers": [
-            108, 101, 125, 126
+            
         ]
     },
     {
         "id": "501",
         "slide":"",
-        "title":"Session Title",
+        "title":"Opening",
         "description":"",
-        "track": "Day 5",
-        "format": "AMA & Closing",
+        "track": "Fundamental Series - UI/UX",
+        "format": "Keynote",
         "link": "",
-        "date": "July 12th, 2020",
+        "date": "November 28th 2020",
         "timeDuration": "30",
         "speakers": [
-            108, 101, 125, 126
+
         ]
     },
     {
         "id": "502",
         "slide":"",
-        "title":"Session Title",
+        "title":"Welcome to UI/UX",
         "description":"",
-        "track": "Day 5",
-        "format": "AMA & Closing",
+        "track": "Fundamental Series - UI/UX",
+        "format": "Talk",
         "link": "",
-        "date": "July 12th, 2020",
+        "date": "November 28th 2020",
         "timeDuration": "30",
         "speakers": [
-            108, 101, 125, 126
+
+        ]
+    },
+    {
+        "id": "503",
+        "slide":"",
+        "title":"Closing",
+        "description":"",
+        "track": "Fundamental Series - UI/UX",
+        "format": "Question and Answer",
+        "link": "",
+        "date": "November 28th 2020",
+        "timeDuration": "30",
+        "speakers": [
+
         ]
     }
 ]
