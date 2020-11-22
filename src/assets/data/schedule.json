@@ -132,5 +132,41 @@
                 "session": 406
             }
         ]
+    },
+    {
+        "day": "5",
+        "date":"Dates",
+        "schedule": [
+            {
+                "startTime": "05:00",
+                "endTime": "05:30",
+                "session": 501
+            },
+            {
+                "startTime": "05:30",
+                "endTime": "06:00",
+                "session": 502
+            },
+            {
+                "startTime": "06:00",
+                "endTime": "06:15",
+                "session": 503
+            },
+            {
+                "startTime": "06:15",
+                "endTime": "07:00",
+                "session": 504
+            },
+            {
+                "startTime": "07:00",
+                "endTime": "07:30",
+                "session": 505
+            },
+            {
+                "startTime": "07:30",
+                "endTime": "08:00",
+                "session": 506
+            }
+        ]
     }
 ]

@@ -108,7 +108,7 @@ export default {
         navigator
           .share({
             title: "DSC Jogjakarta",
-            url: "#",
+            url: "https://www.dscjogfest.id",
           })
           .then(() => {
             console.log("Thanks for sharing");

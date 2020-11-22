@@ -2,10 +2,10 @@
     "eventname":"Jogja Festival",
     "date":"",
     "time":"",
-    "badgeurl":"https://badge.devfestindia.com/",
+    "badgeurl":"https://www.decjogfest.id/",
     "mainhashtag":"JogjaFestival2020",
     "shortdes":"",
-    "googlefromforregistration":"https://docs.google.com/forms/d/e/1FAIpQLSflHxrmgIkJmVFZtpXAjKz17uJB89XSgEbKRrAgme0bsvPv5w/viewform",
+    "googlefromforregistration":"https://docs.google.com/forms/d/e/1FAIpQLSf_yoQqHyf27Bt1kZfc78GwoR_JNmdI7wxiBb8FjgSR4ab_Eg/viewform",
     "longdes":"Every year, dozens of communities host the mega event with talks, activities, fun & much more. Unfortunately, this year we have all been impacted by the pandemic, and as much as we’d like to meet once again for the annual conference, we can’t. Pish posh. We’re techies, we’ll do it online! <b>Jogja Festival 2020</b> will be one of the Jogja’s biggest online developers conference - we will learn, we will play & we will code! <br><br>What’s more, we have three very interesting tracks lined up. Start where you are because DevFest is designed to have something for everybody. For the experts, DevFest provides a fantastic opportunity to meet fellow experts & learn about what’s going on in the world of high technology. For the beginners, there’s no better place to start! With a bunch of community members, you can start your journey, find mentors, seek motivation & collect helpful resources.",
     "stats":[
         {
@@ -26,7 +26,7 @@
         }
     ],
     "registrationData":{
-        "twittershare":"https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdevfestindia.com&ref_src=twsrc%5Etfw&text=Hi%20%23Devs%2C%0A%0AI%20registered%20to%20attend%20India%27s%20largest%20developer%20conclave%20-%20%22DevFest%20India%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20at%3A%20https%3A%2F%2Fdevfestindia.com%2F%0A%0A%23DevFestIndia%20%23DevFest%20%40DevFestIndia%20%20",
-        "facebookshare":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevfestindia.com%2F&quote=Hi%20%23Devs%2C%0A%0AI%20registered%20to%20attend%20India%27s%20largest%20developer%20conclave%20-%20%22DevFest%20India%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20here%3A%20https%3A%2F%2Fdevfestindia.com%2F%0A%0A%23DevFestIndia%20%23DevFest"
+        "twittershare":"https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdscjogfest.id&ref_src=twsrc%5Etfw&text=Hi%20%23StudentDevs%2C%0A%0AI%20registered%20to%20attend%20DSC%20Jogja%20Festival%27s%20largest%20student%20developer%20festival%20-%20%22DSC%20Jogja%20Festival%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20at%3A%20https%3A%2F%2Fdscjogfest.id%2F%0A%0A%23DSCJogFest%20%23DSCFetival%20%40DSCJogjaFestival%20%20",
+        "facebookshare":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdscjogfest.id%2F&quote=Hi%20%23Devs%2C%0A%0AI%20registered%20to%20attend%20India%27s%20largest%20developer%20conclave%20-%20%22DevFest%20India%22.%20There%20are%20some%20amazing%20sessions%20by%20expert%20speakers%20and%20you%20can%20join%20me%20now%21%0A%0ARegister%20here%3A%20https%3A%2F%2Fdevfestindia.com%2F%0A%0A%23DevFestIndia%20%23DevFest"
     }
 }
