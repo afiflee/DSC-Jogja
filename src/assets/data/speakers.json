@@ -9,7 +9,7 @@
         "bio": "Speaker's Bio",
         "image": "GDG.jpg",
         "sessionId": [
-            101
+            103
         ],
         "social": {
             "twitter": "https://twitter.com/",
@@ -30,7 +30,7 @@
             "linkedin": "https://www.linkedin.com/in"
         },
         "sessionId": [
-            102
+            103
         ]
     },
     {
@@ -166,7 +166,7 @@
             "twitter": "https://twitter.com/"
         },
         "sessionId": [
-            50
+            502
         ]
     },
     {
