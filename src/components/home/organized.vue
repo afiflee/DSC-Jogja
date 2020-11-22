@@ -37,7 +37,7 @@
         <!-- DSC UNJANI -->
         <v-col cols="12" md="3" sm="3" style="padding: 10px">
             <a href="https://dsc.community.dev/universitas-jenderal-achmad-yani-yogyakarta/" target="_blank" rel="noopener noreferrer">
-                <img src="@/assets/img/organizers/dsc-unjani.png" width="250px">
+                <img src="@/assets/img/organizers/dsc-unjani.png" width="270px">
             </a>
         </v-col>
     </v-row>
