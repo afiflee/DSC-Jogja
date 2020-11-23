@@ -60,92 +60,91 @@
       <v-row justify="center" align="center">
         <v-col md="10">
           <v-tabs-items v-model="model">
+            <!-- Introduce Section -->
             <v-tab-item
-              value="day1"
-              :class="$vuetify.theme.dark ? 'black' : 'white'"
-            >
+              value="day1" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
                     <h3 class="google-font">Introduce to DSC Jogja Festival</h3>
                     <p class="google-font" style="text-align:justify;">
-                      Runtime performance is how your page performs when it is running, as opposed to loading. Users expect pages to be interactive and smooth. Each stage in the pixel pipeline represents an opportunity to introduce jank. Learn about tools and strategies to identify and fix common problems that slow down runtime performance.
+                      DSC Jogja Festival is an initiation from DSC which is active in the Jogjakarta area. In this session, we will be introduced to a series of activities held at the DSC Jogja Festival. Then it will be continued on how we build and the importance of personal branding.
                     </p>
-              <!-- <ComingSoon /> -->
-
                     <ScheduleDetails :data="ScheduleData[0]" />
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
+            <!-- End of Introduce Section -->
+            <!-- Web Dev and Git Section -->
             <v-tab-item value="day2" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
-                    <h3 class="google-font">Web Developer & Version Control</h3>
+                    <h3 class="google-font">Web Development & Version Control</h3>
                     <p class="google-font" style="text-align:justify;">
-                      AMP is an open-source HTML framework that provides a straightforward way to create web pages that are fast, smooth-loading and prioritize the user-experience above all else. Can't believe it? Try it out.
-                    </p>
-              <!-- <ComingSoon /> -->
-
+                      Web development is an activity to develop a web which is then present on the internet. Later we will learn and chat to know about the frontend of a web and how to solve problems on the backend. The Web Development session will take place in parallel.
+                    <br>
+                      Version control is a management system for various revisions or changes to a unit of information, which is usually a document, source code, or other information that will be stored in computer storage media. For those of you who want to become programmers, mastering version control is mandatory.
+                    </p>  
                     <ScheduleDetails :data="ScheduleData[1]" />
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
+            <!-- End of Web Dev and Git Section -->
+            <!-- DevOps & Firebase Section -->
             <v-tab-item value="day3" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
                     <h3 class="google-font">DevOps & Firebase</h3>
                     <p class="google-font" style="text-align:justify;">
-                     Progressive Web Apps are web apps that use emerging web browser APIs and features along with traditional progressive enhancement strategy to bring a native app-like user experience to cross-platform web applications.
+                     DevOps is a set of practices that automate the process between application development and development teams so they can build, test and release software faster and more reliably. But is it true? Don't miss this session, because later we will delve deeper into what DevOps is.
                      <br>
-                     Project Fugu 🐡 is an effort to close gaps in the web's capabilities enabling new classes of applications to run on the web. The developer-friendly landing page of the project is <a href="https://web.dev/fugu-status/" rel="noreferrer" target="_blank" style="text-decoration:none;">https://web.dev/fugu-status/</a>.
+                     Firebase is a service from Google which will be used to make it easier for application developers to develop applications. With the firebase, it makes it very easy for developers to focus on developing applications that are being created. Then is it possible? You have to see for yourself!
                     </p>
-              <!-- <ComingSoon /> -->
-
                     <ScheduleDetails :data="ScheduleData[2]" />
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
+            <!-- End of DevOps & Firebase Section -->
+            <!-- Android & Flutter Section -->
             <v-tab-item value="day4" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
                     <h3 class="google-font">Android & Flutter</h3>
                     <p class="google-font" style="text-align:justify;">
-                      Taking best practices from the field of user experience and human-centered design and applying them to data collection and privacy interactions. <br>
-                      Once you start looking for ways to optimize your opt-ins or reduce the bounce rates that have increased due to your consent experience, you’re already starting to think of the Privacy UX.
+                      The use of Android is getting more and more. This proves that existing mobile applications are growing and along with this growth, Android developers are increasingly in demand. Kotlin is a modern, statically typed programming language. More than 50% of professional android developers who use Kotlin can even help increase productivity, developer satisfaction and code security. Later we are invited to find out more about the ins and outs of Android Kotlin and your career decisions to become an Android developer.
+                    <br>
+                    Flutter is an SDK for mobile application development developed by Google. Flutter is used to create or even develop mobile applications that can run on devices with the Android or iOS operating systems. Later, after knowing Flutter, we will be faced with whether Flutter is a suitable choice for learning to create Android applications for the first time? So stay tune on this event!
                     </p>
-              <!-- <ComingSoon /> -->
-
                     <ScheduleDetails :data="ScheduleData[3]" />
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
+            <!-- End of Android & Flutter Section -->
+            <!-- UI/UX Section -->
             <v-tab-item value="day5" :class="$vuetify.theme.dark ? 'black' : 'white'">
               <v-container>
                 <v-row>
                   <v-col>
                     <h3 class="google-font">UI & UX</h3>
                     <p class="google-font" style="text-align:justify;">
-                      Taking best practices from the field of user experience and human-centered design and applying them to data collection and privacy interactions. <br>
-                      Once you start looking for ways to optimize your opt-ins or reduce the bounce rates that have increased due to your consent experience, you’re already starting to think of the Privacy UX.
+                      UI (User Interface) is about how the product is laid out. UX (User Experience) is about how the product feels. UI & UX are different but related things. In this session, we will learn "Become UI/UX Designer from scratch" and "Beginner's Guide to UI/UX Research". So prepare yourself, Hipster!
                     </p>
-              <!-- <ComingSoon /> -->
-
                     <ScheduleDetails :data="ScheduleData[4]" />
                   </v-col>
                 </v-row>
               </v-container>
             </v-tab-item>
+            <!-- End of UI/UX Section -->
           </v-tabs-items>
         </v-col>
       </v-row>
-
     <!-- <v-row justify="center" align="center">
       <v-col md="8" xl="7">
         <SocialShare/>
