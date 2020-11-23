@@ -200,7 +200,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="Front-End"
-                    value="Front-End"
+                    value="frontend"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -209,7 +209,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="Back-End"
-                    value="Back-End"
+                    value="backend"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -218,7 +218,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="DevOps"
-                    value="DevOps"
+                    value="devops"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -227,7 +227,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="Firebase"
-                    value="Firebase"
+                    value="firebase"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -236,7 +236,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="Android"
-                    value="Android"
+                    value="android"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -245,7 +245,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="Flutter"
-                    value="Flutter"
+                    value="flutter"
                   ></v-checkbox>
                   <v-checkbox
                     class="my-0"
@@ -254,7 +254,7 @@
                     hide-details="false"
                     :rules="[rules.checkboxbtn]"
                     label="UI/UX"
-                    value="UI/UX"
+                    value="uiux"
                   ></v-checkbox>
                   <!-- Area of Interest -->
 
