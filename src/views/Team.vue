@@ -12,13 +12,11 @@
                   Our Team
                 </h1>
                 <p class="google-font">
-                  Google is known all around the world. Everyone is 'googling',
-                  checking on 'maps' and communicating in 'gmail'. For simple
-                  users, they are services that just works, but not for us.
-                  Developers see much more: APIs, scalability issues, complex
-                  technology stacks. And that is what GDG is about.
+                  DSC Jogja Festival is not just about a collection of events being held, 
+                  we believe that there are friends who want to grow and connect. 
+                  Therefore, we come from various backgrounds to help and give the best for you. 
+                  Being a part of the community and having a positive impact is a wonderful thing.
                 </p>
-
               </v-col>
             </v-row>
           </v-container>
