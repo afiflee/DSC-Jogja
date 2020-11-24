@@ -480,7 +480,7 @@
                   rel="noreferrer"
                   target="_blank"
                 >
-                  <v-icon size="20px" left>mdi-inbox</v-icon>Generate Profile Badge
+                  <v-icon size="20px" left>mdi-inbox</v-icon>Telegram Channel
                 </v-btn>
               </v-col>
             </v-row>
@@ -541,7 +541,7 @@
                   style="text-transform: capitalize;border-radius:5px;border-color:#e0e0e0"
                   class="google-font mt-2"
                 >
-                  <v-icon size="20px" left>mdi-inbox</v-icon>Generate Profile Badge
+                  <v-icon size="20px" left>mdi-inbox</v-icon>Telegram Channel
                 </v-btn>
               </v-col>
             </v-row>
