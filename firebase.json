@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "dscjogfest",
+    "site": "DSCJogFest2020",
     "public": "dist",
     "ignore": [
       "firebase.json",
