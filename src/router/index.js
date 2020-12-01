@@ -53,7 +53,7 @@ Vue.use(VueRouter)
   {
     path: '/registration',
     name: 'Registration',
-    component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue'),
+    component: () => import(/* webpackChunkName: "registration" */ '../views/Regis.vue'),
     meta: {
       title: 'Registration | JogFest 2020',
       color: 'white'
