@@ -62,6 +62,15 @@ export default new Vuex.Store({
         },
       },
       {
+        text: "Merch",
+        to: "/merch",
+        icon: "mdi-football-helmet",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+        },
+      },
+      {
         text: "FAQ",
         to: "/faq",
         icon: "mdi-star",
