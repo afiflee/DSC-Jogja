@@ -60,6 +60,15 @@ Vue.use(VueRouter)
     }
   },
   {
+    path: '/merch',
+    name: 'Merch',
+    component: () => import(/* webpackChunkName: "registration" */ '../views/Merch.vue'),
+    meta: {
+      title: 'Merch | JogFest 2020',
+      color: 'white'
+    }
+  },
+  {
     path: '/speakers',
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue'),
