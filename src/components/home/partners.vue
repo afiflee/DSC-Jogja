@@ -6,7 +6,7 @@
             Sponsor
             </h1>
             <p class="google-font mb-2">
-            Thanks to our Sponsor 
+            Thanks to our Sponsors
             <a
                 href="https://twitter.com/DSCJogjakarta"
                 rel="noreferrer"
@@ -34,7 +34,17 @@
               </a>
         </v-col>
     </v-row>
-    
+
+    <v-row no-gutters >
+        <v-col
+            md="4"
+            offset-md="4"
+        >
+            <a href="https://www.citrahost.com/" target="_blank" rel="noopener noreferrer">
+              <img src="@/assets/img/logo_citrahost.png" width="300px">
+              </a>
+        </v-col>
+    </v-row>    
     <!-- Community Partner -->
     <v-row justify="center" align="center" class="mt-12">
         <v-col>
